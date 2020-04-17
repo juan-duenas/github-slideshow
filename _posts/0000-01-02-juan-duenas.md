@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Ya lo dijo el viejo Astragalo
+> Así es!
+
 Use the left arrow to go back!
